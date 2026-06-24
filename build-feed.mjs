@@ -43,9 +43,24 @@ function description(coll, art, cat) {
   return `Коллекция ${coll} (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC.${a} Подбор декора, точную цену и расчёт количества подскажет менеджер.`;
 }
 
-const res = await fetch(SOURCE_FEED_URL, { headers: { 'User-Agent': 'b24u-feed-builder/1.0' } });
-if (!res.ok) throw new Error(`Source feed fetch failed: ${res.status}`);
-const xml = await res.text();
+// RU-сайт клиента отвечает медленно/нестабильно с зарубежных IP GitHub-раннеров
+// (наблюдали UND_ERR_CONNECT_TIMEOUT на 10с). Таймаут 30с + ретраи.
+async function fetchFeed(url, retries = 4) {
+  for (let a = 0; ; a++) {
+    try {
+      const res = await fetch(url, {
+        headers: { 'User-Agent': 'Mozilla/5.0 (b24u-feed-builder)' },
+        signal: AbortSignal.timeout(30000),
+      });
+      if (!res.ok) throw new Error(`status ${res.status}`);
+      return await res.text();
+    } catch (e) {
+      if (a >= retries) throw new Error(`Source feed fetch failed after ${a + 1} tries: ${e.message}`);
+      await new Promise(r => setTimeout(r, 3000 * (a + 1)));
+    }
+  }
+}
+const xml = await fetchFeed(SOURCE_FEED_URL);
 
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', parseTagValue: false, trimValues: true, isArray: (n) => n === 'offer' || n === 'category' });
 const feed = parser.parse(xml);
