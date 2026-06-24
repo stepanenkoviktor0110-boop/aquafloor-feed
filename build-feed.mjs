@@ -13,7 +13,7 @@
 // релевантность RAG). Подробности — references/04-feeds-and-widgets.md, CHANGELOG клиента.
 
 import { XMLParser, XMLBuilder } from 'fast-xml-parser';
-import { writeFileSync, mkdirSync } from 'node:fs';
+import { writeFileSync, mkdirSync, existsSync, copyFileSync, readFileSync } from 'node:fs';
 
 const SOURCE_FEED_URL = process.env.SOURCE_FEED_URL
   || 'https://aquafloor-online.ru/wp-content/uploads/feed-yml-0.xml';
@@ -60,7 +60,21 @@ async function fetchFeed(url, retries = 4) {
     }
   }
 }
-const xml = await fetchFeed(SOURCE_FEED_URL);
+// Last-known-good fallback: RU-сайт геоблокирует IP GitHub-раннеров (фетч с GH нестабилен).
+// Если источник недоступен — переиспользуем уже закоммиченный feed.xml (его обновляет
+// локальная сборка с RU-IP), деплой не валим. Источник истины — корневой feed.xml репо.
+let xml;
+try {
+  xml = await fetchFeed(SOURCE_FEED_URL);
+} catch (e) {
+  const lkg = existsSync('feed.xml') ? 'feed.xml' : (existsSync('public/feed.xml') ? 'public/feed.xml' : null);
+  if (!lkg) throw e;
+  console.warn(`WARN: ${e.message} — reuse last-known-good ${lkg}, skip rebuild.`);
+  mkdirSync('public', { recursive: true });
+  copyFileSync(lkg, 'public/feed.xml');
+  console.log(`Reused ${lkg} (${readFileSync(lkg, 'utf-8').match(/<offer /g)?.length ?? 0} offers). Done.`);
+  process.exit(0);
+}
 
 const parser = new XMLParser({ ignoreAttributes: false, attributeNamePrefix: '@_', parseTagValue: false, trimValues: true, isArray: (n) => n === 'offer' || n === 'category' });
 const feed = parser.parse(xml);
