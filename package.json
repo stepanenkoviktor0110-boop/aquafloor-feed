@@ -1,0 +1,8 @@
+{
+  "name": "aquafloor-proxy-feed",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": { "build": "node build-feed.mjs" },
+  "dependencies": { "fast-xml-parser": "^4.5.0" }
+}
