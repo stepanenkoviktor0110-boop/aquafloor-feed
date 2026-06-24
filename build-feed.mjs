@@ -88,19 +88,24 @@ const out = {
     '@_date': new Date().toISOString().slice(0, 16).replace('T', ' '),
     shop: {
       name: 'aquafloor-online', company: 'aquafloor-online', url: 'https://aquafloor-online.ru/',
-      currencies: { currency: { '@_id': 'RUR', '@_rate': '1' } },
+      currencies: { currency: { '@_id': 'RUB', '@_rate': '1' } },
       categories: { category: usedCats.map(id => ({ '@_id': id, '#text': CATNAME[id] || id })) },
       offers: {
         offer: selected.map(r => {
+          // Виджет-карточка (§17a): обязательны id+name+url+available; рекомендованы
+          // picture, currencyId=RUB (RUR недетерминированно блокирует рендер), vendor,
+          // vendorCode (top-level, не param), quantity. <price> намеренно нет (money→менеджер).
           const o = {
             '@_id': r.id, '@_available': 'true',
             name: r.name,
             description: description(r.coll, r.art, r.cat),
             vendor: 'Aquafloor',
           };
+          if (r.art) o.vendorCode = r.art;
           if (r.pic) o.picture = r.pic;
           o.url = r.url;
-          o.currencyId = 'RUR';
+          o.currencyId = 'RUB';
+          o.quantity = '1';
           o.categoryId = r.cat;
           return o;
         }),

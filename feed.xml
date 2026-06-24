@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-24 08:34">
+<yml_catalog date="2026-06-24 08:41">
   <shop>
     <name>aquafloor-online</name>
     <company>aquafloor-online</company>
     <url>https://aquafloor-online.ru/</url>
     <currencies>
-      <currency id="RUR" rate="1"></currency>
+      <currency id="RUB" rate="1"></currency>
     </currencies>
     <categories>
       <category id="136">Aquafloor</category>
@@ -18,9 +18,11 @@
           <![CDATA[Коллекция Soundless (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF7501SOU. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF7501SOU</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2025/04/7501.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-soundless-af7501sou/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2744" available="true">
@@ -29,9 +31,11 @@
           <![CDATA[Коллекция Soundless (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF7502SOU. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF7502SOU</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2025/04/7502.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-soundless-af7502sou/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2747" available="true">
@@ -40,9 +44,11 @@
           <![CDATA[Коллекция Soundless (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF7503SOU. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF7503SOU</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2025/04/7503.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-soundless-af7503sou/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2358" available="true">
@@ -51,9 +57,11 @@
           <![CDATA[Коллекция Chevron Premium (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF7011CVR. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF7011CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7011CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7011cvr/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2362" available="true">
@@ -62,9 +70,11 @@
           <![CDATA[Коллекция Chevron Premium (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF7012CVR. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF7012CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7012CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7012cvr/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2366" available="true">
@@ -73,9 +83,11 @@
           <![CDATA[Коллекция Chevron Premium (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF7013CVR. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF7013CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7013CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7013cvr/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2370" available="true">
@@ -84,9 +96,11 @@
           <![CDATA[Коллекция Chevron Premium (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF7014CVR. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF7014CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7014CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7014cvr/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2240" available="true">
@@ -95,9 +109,11 @@
           <![CDATA[Коллекция Space Select XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4081SXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4081SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4081SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4081sxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2244" available="true">
@@ -106,9 +122,11 @@
           <![CDATA[Коллекция Space Select XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4090SXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4090SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4090SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4090sxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2248" available="true">
@@ -117,9 +135,11 @@
           <![CDATA[Коллекция Space Select XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4089SXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4089SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4089SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4089sxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="2252" available="true">
@@ -128,9 +148,11 @@
           <![CDATA[Коллекция Space Select XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4088SXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4088SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4088SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4088sxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="473" available="true">
@@ -139,9 +161,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6031. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6031</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6031.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6031/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="477" available="true">
@@ -150,9 +174,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6032. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6032</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6032.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6032/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="481" available="true">
@@ -161,9 +187,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6033. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6033</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6033.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6033/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="485" available="true">
@@ -172,9 +200,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6034. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6034</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6034.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6034/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="498" available="true">
@@ -183,9 +213,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6041. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6041</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6041.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6041/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="502" available="true">
@@ -194,9 +226,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6042. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6042</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6042.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6042/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="506" available="true">
@@ -205,9 +239,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6043. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6043</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6043.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6043/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="511" available="true">
@@ -216,9 +252,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6051. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6051</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6051.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6051/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="515" available="true">
@@ -227,9 +265,11 @@
           <![CDATA[Коллекция Realwood (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6052. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6052</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6052.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6052/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1662" available="true">
@@ -238,9 +278,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4501PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4501PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4501pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4501pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1666" available="true">
@@ -249,9 +291,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4505PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4505PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4505pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4505pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1670" available="true">
@@ -260,9 +304,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4504PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4504PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4504pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4504pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1674" available="true">
@@ -271,9 +317,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4503PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4503PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4503pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4503pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1678" available="true">
@@ -282,9 +330,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4502PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4502PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4502pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4502pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1743" available="true">
@@ -293,9 +343,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4506PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4506PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4506pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4506pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1744" available="true">
@@ -304,9 +356,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4507PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4507PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4507pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4507pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1745" available="true">
@@ -315,9 +369,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4508PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4508PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4508pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4508pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1746" available="true">
@@ -326,9 +382,11 @@
           <![CDATA[Коллекция Space Parquet Light (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4509PQL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4509PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4509pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4509pql/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1290" available="true">
@@ -337,9 +395,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4051SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4051SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4051spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4051spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1293" available="true">
@@ -348,9 +408,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4060SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4060SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4060spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4060spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1296" available="true">
@@ -359,9 +421,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4059SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4059SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4059spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4059spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1299" available="true">
@@ -370,9 +434,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4058SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4058SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4058spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4058spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1302" available="true">
@@ -381,9 +447,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4057SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4057SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4057spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4057spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1305" available="true">
@@ -392,9 +460,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4056SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4056SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4056spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4056spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1308" available="true">
@@ -403,9 +473,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4055SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4055SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4055spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4055spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1311" available="true">
@@ -414,9 +486,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4054SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4054SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4054spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4054spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1314" available="true">
@@ -425,9 +499,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4053SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4053SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4053spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4053spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1317" available="true">
@@ -436,9 +512,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4052SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4052SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4052spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4052spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1344" available="true">
@@ -447,9 +525,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4031SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4031SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/09/vinilovyj-laminat-akvaflor-aquafloor-space-af4031spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4031spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1345" available="true">
@@ -458,9 +538,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4040SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4040SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/09/vinilovyj-laminat-akvaflor-aquafloor-space-af4040spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4040spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1346" available="true">
@@ -469,9 +551,11 @@
           <![CDATA[Коллекция Space (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4039SPC. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4039SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/09/vinilovyj-laminat-akvaflor-aquafloor-space-af4039spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4039spc/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1967" available="true">
@@ -480,9 +564,11 @@
           <![CDATA[Коллекция Parquet Chevron (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF2551PGCh. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF2551PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2551pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2551pgch/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1971" available="true">
@@ -491,9 +577,11 @@
           <![CDATA[Коллекция Parquet Chevron (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF2552PGCh. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF2552PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2552pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2552pgch/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1975" available="true">
@@ -502,9 +590,11 @@
           <![CDATA[Коллекция Parquet Chevron (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF2553PGCh. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF2553PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2553pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2553pgch/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1979" available="true">
@@ -513,9 +603,11 @@
           <![CDATA[Коллекция Parquet Chevron (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF2554PGCh. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF2554PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2554pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2554pgch/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="326" available="true">
@@ -524,9 +616,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6011PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6011PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6011pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6011pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="330" available="true">
@@ -535,9 +629,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6012PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6012PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6012pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6012pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="334" available="true">
@@ -546,9 +642,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6013PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6013PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6013pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6013pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="338" available="true">
@@ -557,9 +655,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6014PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6014PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6014pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6014pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="342" available="true">
@@ -568,9 +668,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6015PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6015PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6015pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6015pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="346" available="true">
@@ -579,9 +681,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6016PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6016PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6016pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6016pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="350" available="true">
@@ -590,9 +694,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6017PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6017PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6017pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6017pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="354" available="true">
@@ -601,9 +707,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6018PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6018PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6018pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6018pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="358" available="true">
@@ -612,9 +720,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6019PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6019PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6019pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6019pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="362" available="true">
@@ -623,9 +733,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6020PQ. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6020PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6020pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6020pq/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1121" available="true">
@@ -634,9 +746,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF2501PG. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF2501PG</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2501pg.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2501pg/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1125" available="true">
@@ -645,9 +759,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF2510PG. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF2510PG</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2510pg.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2510pg/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1129" available="true">
@@ -656,9 +772,11 @@
           <![CDATA[Коллекция Parquet (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF2509PG. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF2509PG</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2509pg.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2509pg/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1786" available="true">
@@ -667,9 +785,11 @@
           <![CDATA[Коллекция Stone XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF 5001 MSXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF 5001 MSXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5001-msxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5001-msxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1787" available="true">
@@ -678,9 +798,11 @@
           <![CDATA[Коллекция Stone XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF 5031 ESXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF 5031 ESXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5031-esxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5031-esxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1788" available="true">
@@ -689,9 +811,11 @@
           <![CDATA[Коллекция Stone XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF 5021 FSXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF 5021 FSXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5021-fsxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5021-fsxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1789" available="true">
@@ -700,9 +824,11 @@
           <![CDATA[Коллекция Stone XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF 5013 OSXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF 5013 OSXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5013-osxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5013-osxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1595" available="true">
@@ -711,9 +837,11 @@
           <![CDATA[Коллекция Space Nuts XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4071NXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4071NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4071nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4071nxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1598" available="true">
@@ -722,9 +850,11 @@
           <![CDATA[Коллекция Space Nuts XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4072NXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4072NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4072nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4072nxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1601" available="true">
@@ -733,9 +863,11 @@
           <![CDATA[Коллекция Space Nuts XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4073NXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4073NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4073nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4073nxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1604" available="true">
@@ -744,9 +876,11 @@
           <![CDATA[Коллекция Space Nuts XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF4074NXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF4074NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4074nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4074nxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1580" available="true">
@@ -755,9 +889,11 @@
           <![CDATA[Коллекция Parquet plus (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6021PQN. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6021PQN</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-aquafloor-parquet-plus-af6021pqn.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-plus-af6021pqn/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1583" available="true">
@@ -766,9 +902,11 @@
           <![CDATA[Коллекция Parquet plus (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF6022PQN. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF6022PQN</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-aquafloor-parquet-plus-af6022pqn.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-plus-af6022pqn/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="523" available="true">
@@ -777,9 +915,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8010XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8010XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af80010xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af80010xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="527" available="true">
@@ -788,9 +928,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8001XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8001XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8001xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8001xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="531" available="true">
@@ -799,9 +941,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8002XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8002XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8002xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8002xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="541" available="true">
@@ -810,9 +954,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8003XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8003XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8003xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8003xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="545" available="true">
@@ -821,9 +967,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8004XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8004XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8004xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8004xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="557" available="true">
@@ -832,9 +980,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8005XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8005XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8005xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8005xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="561" available="true">
@@ -843,9 +993,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8006XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8006XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8006xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8006xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="565" available="true">
@@ -854,9 +1006,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8007XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8007XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8007xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8007xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="569" available="true">
@@ -865,9 +1019,11 @@
           <![CDATA[Коллекция Realwood XL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8008XL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8008XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8008xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8008xl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1056" available="true">
@@ -876,9 +1032,11 @@
           <![CDATA[Коллекция Stone (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3531MST. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3531MST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3531mst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3531mst/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1059" available="true">
@@ -887,9 +1045,11 @@
           <![CDATA[Коллекция Stone (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3555SST. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3555SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3555sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3555sst/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1062" available="true">
@@ -898,9 +1058,11 @@
           <![CDATA[Коллекция Stone (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3554SST. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3554SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3554sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3554sst/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1065" available="true">
@@ -909,9 +1071,11 @@
           <![CDATA[Коллекция Stone (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3553SST. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3553SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3553sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3553sst/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1068" available="true">
@@ -920,9 +1084,11 @@
           <![CDATA[Коллекция Stone (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3552SST. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3552SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3552sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3552sst/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="1088" available="true">
@@ -931,9 +1097,11 @@
           <![CDATA[Стеновые панели Aquawall. Влагостойкие декоративные стеновые панели Aquafloor. Артикул AW4231M. Точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AW4231M</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4231m.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4231m/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>215</categoryId>
       </offer>
       <offer id="1091" available="true">
@@ -942,9 +1110,11 @@
           <![CDATA[Стеновые панели Aquawall. Влагостойкие декоративные стеновые панели Aquafloor. Артикул AW4242C. Точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AW4242C</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4242c.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4242c/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>215</categoryId>
       </offer>
       <offer id="1094" available="true">
@@ -953,9 +1123,11 @@
           <![CDATA[Стеновые панели Aquawall. Влагостойкие декоративные стеновые панели Aquafloor. Артикул AW4255S. Точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AW4255S</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4255s.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4255s/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>215</categoryId>
       </offer>
       <offer id="1097" available="true">
@@ -964,9 +1136,11 @@
           <![CDATA[Стеновые панели Aquawall. Влагостойкие декоративные стеновые панели Aquafloor. Артикул AW4254S. Точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AW4254S</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4254s.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4254s/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>215</categoryId>
       </offer>
       <offer id="1100" available="true">
@@ -975,9 +1149,11 @@
           <![CDATA[Стеновые панели Aquawall. Влагостойкие декоративные стеновые панели Aquafloor. Артикул AW4253S. Точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AW4253S</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4253s.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4253s/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>215</categoryId>
       </offer>
       <offer id="577" available="true">
@@ -986,9 +1162,11 @@
           <![CDATA[Коллекция Realwood XXL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8021XXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8021XXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8021xxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8021xxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="579" available="true">
@@ -997,9 +1175,11 @@
           <![CDATA[Коллекция Realwood XXL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8022XXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8022XXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8022xxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8022xxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="581" available="true">
@@ -1008,9 +1188,11 @@
           <![CDATA[Коллекция Realwood XXL (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF8023XXL. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF8023XXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8023xxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8023xxl/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="395" available="true">
@@ -1019,9 +1201,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3201N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3201N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3201n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3201n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="399" available="true">
@@ -1030,9 +1214,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3202N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3202N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3202n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3202n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="403" available="true">
@@ -1041,9 +1227,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3203N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3203N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3203n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3203n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="407" available="true">
@@ -1052,9 +1240,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3204N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3204N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3204n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3204n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="411" available="true">
@@ -1063,9 +1253,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3205N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3205N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3205n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3205n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="415" available="true">
@@ -1074,9 +1266,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3206N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3206N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3206n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3206n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="419" available="true">
@@ -1085,9 +1279,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3207N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3207N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3207n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3207n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="423" available="true">
@@ -1096,9 +1292,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3208N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3208N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3208n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3208n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
       <offer id="427" available="true">
@@ -1107,9 +1305,11 @@
           <![CDATA[Коллекция Nano (Aquafloor). Водостойкое напольное покрытие — кварц-винил/SPC. Артикул AF3209N. Подбор декора, точную цену и расчёт количества подскажет менеджер.]]>
         </description>
         <vendor>Aquafloor</vendor>
+        <vendorCode>AF3209N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3209n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3209n/</url>
-        <currencyId>RUR</currencyId>
+        <currencyId>RUB</currencyId>
+        <quantity>1</quantity>
         <categoryId>136</categoryId>
       </offer>
     </offers>
