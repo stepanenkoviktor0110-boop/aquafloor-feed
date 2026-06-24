@@ -122,8 +122,9 @@ const out = {
       offers: {
         offer: selected.map(r => {
           // Виджет-карточка (§17a): обязательны id+name+url+available; рекомендованы
-          // picture, currencyId=RUB (RUR недетерминированно блокирует рендер), vendor,
-          // vendorCode (top-level, не param), quantity. <price> намеренно нет (money→менеджер).
+          // picture, price+currencyId=RUB, vendor, vendorCode (top-level), quantity.
+          // Вариант A (§21.4): <price> ОСТАЁТСЯ — цена видна на карточке (компенсирует
+          // ограничения бота). Озвучку суммы давит промпт (<price_policy>), не вырезание.
           const o = {
             '@_id': r.id, '@_available': 'true',
             name: r.name,
@@ -133,6 +134,7 @@ const out = {
           if (r.art) o.vendorCode = r.art;
           if (r.pic) o.picture = r.pic;
           o.url = r.url;
+          if (r.price) o.price = String(r.price);
           o.currencyId = 'RUB';
           o.quantity = '1';
           o.categoryId = r.cat;

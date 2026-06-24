@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<yml_catalog date="2026-06-24 08:46">
+<yml_catalog date="2026-06-24 09:07">
   <shop>
     <name>aquafloor-online</name>
     <company>aquafloor-online</company>
@@ -21,6 +21,7 @@
         <vendorCode>AF7501SOU</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2025/04/7501.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-soundless-af7501sou/</url>
+        <price>6500</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -34,6 +35,7 @@
         <vendorCode>AF7502SOU</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2025/04/7502.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-soundless-af7502sou/</url>
+        <price>6500</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -47,6 +49,7 @@
         <vendorCode>AF7503SOU</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2025/04/7503.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-soundless-af7503sou/</url>
+        <price>6500</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -60,6 +63,7 @@
         <vendorCode>AF7011CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7011CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7011cvr/</url>
+        <price>7200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -73,6 +77,7 @@
         <vendorCode>AF7012CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7012CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7012cvr/</url>
+        <price>7200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -86,6 +91,7 @@
         <vendorCode>AF7013CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7013CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7013cvr/</url>
+        <price>7200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -99,6 +105,7 @@
         <vendorCode>AF7014CVR</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/10/AF7014CVR_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/kvarc-vinilovyj-laminat-aquafloor-chevron-premium-af7014cvr/</url>
+        <price>7200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -112,6 +119,7 @@
         <vendorCode>AF4081SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4081SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4081sxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -125,6 +133,7 @@
         <vendorCode>AF4090SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4090SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4090sxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -138,6 +147,7 @@
         <vendorCode>AF4089SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4089SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4089sxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -151,6 +161,7 @@
         <vendorCode>AF4088SXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/09/AF4088SXL_board.jpg</picture>
         <url>https://aquafloor-online.ru/product/spc-laminat-aquafloor-space-select-xl-af4088sxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -164,6 +175,7 @@
         <vendorCode>AF6031</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6031.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6031/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -177,6 +189,7 @@
         <vendorCode>AF6032</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6032.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6032/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -190,6 +203,7 @@
         <vendorCode>AF6033</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6033.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6033/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -203,6 +217,7 @@
         <vendorCode>AF6034</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6034.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6034/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -216,6 +231,7 @@
         <vendorCode>AF6041</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6041.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6041/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -229,6 +245,7 @@
         <vendorCode>AF6042</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6042.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6042/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -242,6 +259,7 @@
         <vendorCode>AF6043</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6043.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6043/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -255,6 +273,7 @@
         <vendorCode>AF6051</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6051.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6051/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -268,6 +287,7 @@
         <vendorCode>AF6052</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6052.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-af6052/</url>
+        <price>3950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -281,6 +301,7 @@
         <vendorCode>AF4501PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4501pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4501pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -294,6 +315,7 @@
         <vendorCode>AF4505PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4505pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4505pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -307,6 +329,7 @@
         <vendorCode>AF4504PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4504pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4504pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -320,6 +343,7 @@
         <vendorCode>AF4503PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4503pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4503pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -333,6 +357,7 @@
         <vendorCode>AF4502PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/05/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4502pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4502pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -346,6 +371,7 @@
         <vendorCode>AF4506PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4506pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4506pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -359,6 +385,7 @@
         <vendorCode>AF4507PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4507pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4507pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -372,6 +399,7 @@
         <vendorCode>AF4508PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4508pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4508pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -385,6 +413,7 @@
         <vendorCode>AF4509PQL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/09/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4509pql.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-parquet-light-af4509pql/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -398,6 +427,7 @@
         <vendorCode>AF4051SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4051spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4051spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -411,6 +441,7 @@
         <vendorCode>AF4060SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4060spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4060spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -424,6 +455,7 @@
         <vendorCode>AF4059SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4059spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4059spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -437,6 +469,7 @@
         <vendorCode>AF4058SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4058spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4058spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -450,6 +483,7 @@
         <vendorCode>AF4057SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4057spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4057spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -463,6 +497,7 @@
         <vendorCode>AF4056SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4056spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4056spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -476,6 +511,7 @@
         <vendorCode>AF4055SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4055spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4055spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -489,6 +525,7 @@
         <vendorCode>AF4054SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4054spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4054spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -502,6 +539,7 @@
         <vendorCode>AF4053SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4053spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4053spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -515,6 +553,7 @@
         <vendorCode>AF4052SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/06/vinilovyj-laminat-akvaflor-aquafloor-space-af4052spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4052spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -528,6 +567,7 @@
         <vendorCode>AF4031SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/09/vinilovyj-laminat-akvaflor-aquafloor-space-af4031spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4031spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -541,6 +581,7 @@
         <vendorCode>AF4040SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/09/vinilovyj-laminat-akvaflor-aquafloor-space-af4040spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4040spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -554,6 +595,7 @@
         <vendorCode>AF4039SPC</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2021/09/vinilovyj-laminat-akvaflor-aquafloor-space-af4039spc.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-af4039spc/</url>
+        <price>2950</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -567,6 +609,7 @@
         <vendorCode>AF2551PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2551pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2551pgch/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -580,6 +623,7 @@
         <vendorCode>AF2552PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2552pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2552pgch/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -593,6 +637,7 @@
         <vendorCode>AF2553PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2553pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2553pgch/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -606,6 +651,7 @@
         <vendorCode>AF2554PGCh</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2023/02/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2554pgch-1.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-chevron-af2554pgch/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -619,6 +665,7 @@
         <vendorCode>AF6011PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6011pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6011pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -632,6 +679,7 @@
         <vendorCode>AF6012PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6012pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6012pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -645,6 +693,7 @@
         <vendorCode>AF6013PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6013pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6013pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -658,6 +707,7 @@
         <vendorCode>AF6014PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6014pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6014pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -671,6 +721,7 @@
         <vendorCode>AF6015PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6015pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6015pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -684,6 +735,7 @@
         <vendorCode>AF6016PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6016pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6016pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -697,6 +749,7 @@
         <vendorCode>AF6017PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6017pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6017pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -710,6 +763,7 @@
         <vendorCode>AF6018PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6018pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6018pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -723,6 +777,7 @@
         <vendorCode>AF6019PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6019pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6019pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -736,6 +791,7 @@
         <vendorCode>AF6020PQ</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-aquafloor-parquet-af6020pq.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-af6020pq/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -749,6 +805,7 @@
         <vendorCode>AF2501PG</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2501pg.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2501pg/</url>
+        <price>2499</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -762,6 +819,7 @@
         <vendorCode>AF2510PG</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2510pg.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2510pg/</url>
+        <price>2499</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -775,6 +833,7 @@
         <vendorCode>AF2509PG</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2509pg.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovaya-plitka-akvaflor-aquafloor-parquet-af2509pg/</url>
+        <price>2499</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -788,6 +847,7 @@
         <vendorCode>AF 5001 MSXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5001-msxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5001-msxl/</url>
+        <price>3800</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -801,6 +861,7 @@
         <vendorCode>AF 5031 ESXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5031-esxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5031-esxl/</url>
+        <price>3800</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -814,6 +875,7 @@
         <vendorCode>AF 5021 FSXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5021-fsxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5021-fsxl/</url>
+        <price>3800</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -827,6 +889,7 @@
         <vendorCode>AF 5013 OSXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/11/vinilovyj-laminat-aquafloor-stone-xl-af-5013-osxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-xl-af-5013-osxl/</url>
+        <price>3800</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -840,6 +903,7 @@
         <vendorCode>AF4071NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4071nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4071nxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -853,6 +917,7 @@
         <vendorCode>AF4072NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4072nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4072nxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -866,6 +931,7 @@
         <vendorCode>AF4073NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4073nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4073nxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -879,6 +945,7 @@
         <vendorCode>AF4074NXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4074nxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-space-nuts-xl-af4074nxl/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -892,6 +959,7 @@
         <vendorCode>AF6021PQN</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-aquafloor-parquet-plus-af6021pqn.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-plus-af6021pqn/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -905,6 +973,7 @@
         <vendorCode>AF6022PQN</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2022/04/vinilovyj-laminat-aquafloor-parquet-plus-af6022pqn.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-aquafloor-parquet-plus-af6022pqn/</url>
+        <price>5600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -918,6 +987,7 @@
         <vendorCode>AF8010XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af80010xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af80010xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -931,6 +1001,7 @@
         <vendorCode>AF8001XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8001xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8001xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -944,6 +1015,7 @@
         <vendorCode>AF8002XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8002xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8002xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -957,6 +1029,7 @@
         <vendorCode>AF8003XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8003xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8003xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -970,6 +1043,7 @@
         <vendorCode>AF8004XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8004xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8004xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -983,6 +1057,7 @@
         <vendorCode>AF8005XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8005xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8005xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -996,6 +1071,7 @@
         <vendorCode>AF8006XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8006xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8006xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1009,6 +1085,7 @@
         <vendorCode>AF8007XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8007xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8007xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1022,6 +1099,7 @@
         <vendorCode>AF8008XL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8008xl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xl-af8008xl/</url>
+        <price>4900</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1035,6 +1113,7 @@
         <vendorCode>AF3531MST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3531mst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3531mst/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1048,6 +1127,7 @@
         <vendorCode>AF3555SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3555sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3555sst/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1061,6 +1141,7 @@
         <vendorCode>AF3554SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3554sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3554sst/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1074,6 +1155,7 @@
         <vendorCode>AF3553SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3553sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3553sst/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1087,6 +1169,7 @@
         <vendorCode>AF3552SST</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/vinilovyj-laminat-akvaflor-aquafloor-stone-af3552sst.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-stone-af3552sst/</url>
+        <price>3200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1100,6 +1183,7 @@
         <vendorCode>AW4231M</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4231m.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4231m/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>215</categoryId>
@@ -1113,6 +1197,7 @@
         <vendorCode>AW4242C</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4242c.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4242c/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>215</categoryId>
@@ -1126,6 +1211,7 @@
         <vendorCode>AW4255S</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4255s.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4255s/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>215</categoryId>
@@ -1139,6 +1225,7 @@
         <vendorCode>AW4254S</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4254s.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4254s/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>215</categoryId>
@@ -1152,6 +1239,7 @@
         <vendorCode>AW4253S</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2020/09/stenovaya-panel-aquawall-aw4253s.jpg</picture>
         <url>https://aquafloor-online.ru/product/stenovaya-panel-aquawall-aw4253s/</url>
+        <price>3350</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>215</categoryId>
@@ -1165,6 +1253,7 @@
         <vendorCode>AF8021XXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8021xxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8021xxl/</url>
+        <price>5200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1178,6 +1267,7 @@
         <vendorCode>AF8022XXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8022xxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8022xxl/</url>
+        <price>5200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1191,6 +1281,7 @@
         <vendorCode>AF8023XXL</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8023xxl.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-realwood-xxl-af8023xxl/</url>
+        <price>5200</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1204,6 +1295,7 @@
         <vendorCode>AF3201N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3201n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3201n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1217,6 +1309,7 @@
         <vendorCode>AF3202N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3202n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3202n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1230,6 +1323,7 @@
         <vendorCode>AF3203N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3203n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3203n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1243,6 +1337,7 @@
         <vendorCode>AF3204N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3204n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3204n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1256,6 +1351,7 @@
         <vendorCode>AF3205N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3205n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3205n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1269,6 +1365,7 @@
         <vendorCode>AF3206N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3206n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3206n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1282,6 +1379,7 @@
         <vendorCode>AF3207N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3207n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3207n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1295,6 +1393,7 @@
         <vendorCode>AF3208N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3208n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3208n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
@@ -1308,6 +1407,7 @@
         <vendorCode>AF3209N</vendorCode>
         <picture>https://aquafloor-online.ru/wp-content/uploads/2019/05/vinilovyj-laminat-akvaflor-aquafloor-nano-af3209n.jpg</picture>
         <url>https://aquafloor-online.ru/product/vinilovyj-laminat-akvaflor-aquafloor-nano-af3209n/</url>
+        <price>2600</price>
         <currencyId>RUB</currencyId>
         <quantity>1</quantity>
         <categoryId>136</categoryId>
