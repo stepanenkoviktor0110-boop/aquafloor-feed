@@ -1,26 +1,36 @@
 name: Build feed
 
-# Каноничный workflow для proxy-feed, используется для всех новых клиентов B24U.
-# Pages-конфиг в репо должен быть `build_type: workflow` — устанавливается через
-# `gh api -X PUT repos/<owner>/<repo>/pages -f build_type=workflow`. Без этого
-# legacy-сборщик ругается на автокоммиты от github-actions[bot] и шлёт письма
-# «Page build failed» владельцу (хотя фактическая раздача файла продолжает
-# работать). См. case-study Kstore 2026-05-14 и SKILL.md → Шаг 4.
+# Каноничный workflow для proxy-feed (все клиенты B24U).
+#
+# ВАЖНО: сгенерированный feed.xml в git НЕ коммитится. При Pages build_type=workflow
+# раздаётся артефакт деплоя (upload-pages-artifact → deploy-pages), а НЕ файл из репо,
+# поэтому коммитить результат сборки не нужно. Раньше шаг «Commit if changed» коммитил
+# feed.xml и делал git pull --rebase — но feed.xml меняется каждый прогон (минимум строка
+# date="..." в шапке YML), прогоны накладываются (cron+push+dispatch) → история расходится
+# → "CONFLICT (content): Merge conflict in feed.xml" → rebase падает → build fail → письма
+# владельцу. Коммит-шага здесь нет → этот класс падений исключён.
+#
+# Репозиторный feed.xml — только seed/last-known-good для фолбэка build-feed.mjs (когда
+# источник недоступен, напр. RU-сайт геоблокирует IP GH-раннеров). Обновляется вручную
+# локальной пересборкой с RU-IP, автокоммитами — никогда.
+#
+# Pages: build_type=workflow. Включить один раз:
+#   gh api -X POST repos/<owner>/<repo>/pages -f build_type=workflow
 
 on:
   schedule:
-    - cron: '0 */6 * * *'   # каждые 6 часов (00, 06, 12, 18 UTC)
+    - cron: '0 */6 * * *'   # каждые 6 часов
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [build-feed.mjs, package.json, package-lock.json, .github/workflows/build-feed.yml]
+    paths: [build-feed.mjs, package.json, package-lock.json, feed.xml, .github/workflows/build-feed.yml]
 
 permissions:
-  contents: write   # push коммита feed.xml
-  pages: write      # деплой на Pages через actions/deploy-pages
-  id-token: write   # OIDC для actions/deploy-pages
+  contents: read    # checkout
+  pages: write      # deploy-pages
+  id-token: write   # OIDC для deploy-pages
 
-# Параллельные cron-runs не накладываются; второй ждёт первый.
+# Параллельные прогоны не накладываются; второй ждёт первый.
 concurrency:
   group: pages
   cancel-in-progress: false
@@ -28,8 +38,6 @@ concurrency:
 jobs:
   build:
     runs-on: ubuntu-latest
-    outputs:
-      changed: ${{ steps.commit.outputs.changed }}
     steps:
       - uses: actions/checkout@v4
 
@@ -42,48 +50,24 @@ jobs:
 
       - name: Build feed
         env:
-          # Если URL фида публичный — можно хардкодить SOURCE_FEED_URL в build-feed.mjs
-          # и удалить эту строку. Если фид клиента требует токена / закрыт — положить
-          # URL (а при необходимости и токен) в Settings → Secrets and variables → Actions.
+          # Публичный источник можно хардкодить дефолтом в build-feed.mjs и убрать строку.
+          # Закрытый/с токеном — положить в Settings → Secrets and variables → Actions.
           SOURCE_FEED_URL: ${{ secrets.SOURCE_FEED_URL }}
-        run: |
-          npm run build
-          cp public/feed.xml feed.xml
-
-      - id: commit
-        name: Commit if changed
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          if git diff --quiet feed.xml; then
-            echo "No changes in feed.xml — skip commit and deploy."
-            echo "changed=false" >> "$GITHUB_OUTPUT"
-          else
-            git add feed.xml
-            git commit -m "chore: auto-update feed.xml ($(date -u '+%Y-%m-%d %H:%M UTC'))"
-            # Pull --rebase --autostash спасает от race-condition с параллельным push
-            # (когда автотрид и ручной push сходятся в одном окне).
-            git pull --rebase --autostash origin main
-            git push
-            echo "changed=true" >> "$GITHUB_OUTPUT"
-          fi
+        run: npm run build   # пишет public/feed.xml; при недоступности источника build-feed.mjs переиспользует репозиторный feed.xml (last-known-good)
 
       - name: Stage Pages artifact
-        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         run: |
           mkdir -p _site
-          cp feed.xml _site/feed.xml
-          cp .nojekyll _site/.nojekyll
-          cp README.md _site/README.md || true
+          cp public/feed.xml _site/feed.xml
+          cp .nojekyll _site/.nojekyll 2>/dev/null || true
+          cp README.md _site/README.md 2>/dev/null || true
 
       - name: Upload Pages artifact
-        if: steps.commit.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
         uses: actions/upload-pages-artifact@v3
         with:
           path: _site
 
   deploy:
-    if: needs.build.outputs.changed == 'true' || github.event_name == 'workflow_dispatch'
     needs: build
     runs-on: ubuntu-latest
     environment:
